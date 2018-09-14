@@ -1,0 +1,17 @@
+{
+  "name": "rxjs-tear-down-logic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./test",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fakes-dependency": "file:fakes-dependencys/fakes-dependency-1.0.0.tgz",
+    "rxjs": "6.2.2"
+  },
+  "dependencies": {}
+}
